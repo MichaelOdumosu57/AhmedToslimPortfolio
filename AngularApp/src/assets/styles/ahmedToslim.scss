@@ -1,0 +1,37 @@
+
+
+
+
+
+
+h1,h2,p{
+    font-family: Abadi MT Condensed;
+    font-weight: 100;
+    color:white;
+}
+
+h2{
+    font-size: 24px;
+}
+
+p{
+    font-size: 16px;
+}
+
+.a_p_p_{
+    &Overlay{
+        background-color: black;
+    }
+    &Image {
+        border-radius: 100px;
+    }
+
+    &Title{
+    }
+
+    &Text{
+        color:white;
+    }
+
+
+}
